@@ -1,8 +1,8 @@
 I learning java web development in OJT batch-9 for ace group.
 I prefer backend developing.
-varcha(255)
-nvarcha(255)
-longblob
+varcha(max)
+nvarcha(max)
+shortblob
 int
 Forign key
 
